@@ -1,0 +1,9 @@
+###
+POST http://localhost:5000/api/services
+content-type: application/json
+
+{
+    "logo":"o",
+    "heading":"ousman",
+    "text":"dfyuiugfdyujijkhgfdrtf"
+}
